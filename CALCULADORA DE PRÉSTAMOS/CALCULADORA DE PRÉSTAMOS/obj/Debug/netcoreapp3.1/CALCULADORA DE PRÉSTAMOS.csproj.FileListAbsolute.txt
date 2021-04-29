@@ -1,0 +1,13 @@
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.exe
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.deps.json
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.runtimeconfig.json
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.runtimeconfig.dev.json
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.dll
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\bin\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.pdb
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.csprojAssemblyReference.cache
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.AssemblyInfoInputs.cache
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.AssemblyInfo.cs
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.csproj.CoreCompileInputs.cache
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.dll
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.pdb
+C:\Users\Junior Vasquez\Desktop\CALCULADORA DE PRÉSTAMOS\CALCULADORA DE PRÉSTAMOS\obj\Debug\netcoreapp3.1\CALCULADORA DE PRÉSTAMOS.genruntimeconfig.cache
